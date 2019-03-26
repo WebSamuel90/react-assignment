@@ -20,8 +20,8 @@ code {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 80vh;
-  width: 55vh;
+  height: 95vh;
+  width: 90vw;
   text-align: center;
   border-radius: 30px;
 }
@@ -54,16 +54,13 @@ code {
   border-color: #326E99;
   background-color: #3F8ABF;
   position: absolute;
-  top: 70vh;
-  left: 30%;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   outline: none;
 }
 
-@media screen and (min-width: 992px) {
-  .btn {
-    left: 37%;
-  }
-}
+
 
 .setup {
   padding-left: 10px;
