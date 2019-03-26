@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import JokeContainer from './Components/JokeContainer';
 
 class App extends Component {
