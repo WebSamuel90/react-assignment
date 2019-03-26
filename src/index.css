@@ -65,3 +65,12 @@ code {
   }
 }
 
+.setup {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.punchline {
+  padding-left: 10px;
+  padding-right: 10px;
+}
